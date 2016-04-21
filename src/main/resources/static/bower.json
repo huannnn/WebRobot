@@ -1,0 +1,21 @@
+{
+  "name": "WebRobot",
+  "authors": [
+    "zhanghuan <591034109@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "amazeui": "~2.6.1"
+  }
+}
